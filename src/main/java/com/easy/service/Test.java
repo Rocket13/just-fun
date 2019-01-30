@@ -1,7 +1,7 @@
-package com.easy.controller;
+package com.easy.service;
 
 public interface Test {
       void  display();
       void  hello();
-      void test();
+      void  test();
 }
